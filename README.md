@@ -6,7 +6,7 @@ TRIPZOVA is a car rental & travel booking platform.
 Build a real-world, production-ready platform while learning full-stack development step by step.
 
 ## Team
-- Owner: Husen
+- Partner: Husen
 - Partner: Ismail
 
 ## Status
